@@ -79,12 +79,12 @@ LED7 is turned OFF if any error occurs.
   - CoproSync/CoproSync_ShutDown/Inc/main.h                     Header for main.c module
   - CoproSync/CoproSync_ShutDown/Inc/copro_sync.h               CoproSync header file
   - CoproSync/CoproSync_ShutDown/Inc/lock_resource.h            Header file for lock_resource.c
-  - CoproSync/CoproSync_ShutDown/Inc/stm32mp1xx_it.c            Interrupt handlers
-  - CoproSync/CoproSync_ShutDown/Inc/main.c                     Main program
-  - CoproSync/CoproSync_ShutDown/Inc/stm32mp1xx_hal_msp.c       HAL MSP file
-  - CoproSync/CoproSync_ShutDown/Inc/system_stm32mp1xx.c        STM32MP1xx system source file
-  - CoproSync/CoproSync_ShutDown/Inc/copro_sync.c               Services to handle synchron between the processors
-  - CoproSync/CoproSync_ShutDown/Inc/lock_resource.c            lock_resource file
+  - CoproSync/CoproSync_ShutDown/Src/stm32mp1xx_it.c            Interrupt handlers
+  - CoproSync/CoproSync_ShutDown/Src/main.c                     Main program
+  - CoproSync/CoproSync_ShutDown/Src/stm32mp1xx_hal_msp.c       HAL MSP file
+  - CoproSync/CoproSync_ShutDown/Src/system_stm32mp1xx.c        STM32MP1xx system source file
+  - CoproSync/CoproSync_ShutDown/Src/copro_sync.c               Services to handle synchron between the processors
+  - CoproSync/CoproSync_ShutDown/Src/lock_resource.c            lock_resource file
 
 
 @par Hardware and Software environment
